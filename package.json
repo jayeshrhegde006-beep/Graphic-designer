@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
-    "@react-three/drei": "^9.117.3",
+    "@react-three/drei": "^9.122.0",
     "@react-three/fiber": "^8.17.10",
+    "eslint": "^8",
+    "eslint-config-next": "16.1.6",
     "@vercel/analytics": "1.6.1",
     "three": "^0.170.0",
     "@radix-ui/react-accordion": "1.2.12",
